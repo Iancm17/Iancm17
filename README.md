@@ -1,16 +1,22 @@
-## Hi there 👋
+#  Hola, soy Ian
 
-<!--
-**Iancm17/Iancm17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de programación (16 años).  
+📚 Conocimientos en **Python, MySQL, HTML, CSS y ESP32**.  
+🚀 Actualmente aprendiendo **JavaScript**.  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🔧 Tecnologías y habilidades
+- Python 
+- MySQL 
+- HTML / CSS 
+- JavaScript (en progreso) 
+- ESP32 
+
+
+## Contacto
+✉  Email: iancastromars17@gamil.com 
+
+🔗 GitHub: https://github.com/Iancm17
+
+Siempre estoy aprendiendo y abierto a nuevos proyectos, colaboraciones y desafíos.
